@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou o Marcos Magalhães Junior<h1/>
 
-  ### Estudante de Tecnologia
+  ### Front-and Iniciando no React.Js 
     
   <div style="display: inline_block">
   <div style="display: inline_block">
