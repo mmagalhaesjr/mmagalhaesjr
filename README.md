@@ -1,7 +1,5 @@
 #  Marcos Magalhães Júnior
 
-- I'm a Front-End Developer 
-- Currently exploring backend technologies
  
 ### 🛠️ Languages and Tools 
  <div>
