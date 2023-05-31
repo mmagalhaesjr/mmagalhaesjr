@@ -1,6 +1,6 @@
-# Olá, meu nome é Marcos Magalhães Júnior
-## Bem vindo ao meu R.E.A.D.M.E
-### Rumo à excelência no aprendizado de desenvolvimento com métodos eficientes
+# Olá, meu nome é Marcos Magalhães Júnior 
+
+###  Bem vindo ao meu R.E.A.D.M.E </br> </br> Rumo à excelência no aprendizado de desenvolvimento com métodos eficientes
  
 
 
